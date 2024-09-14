@@ -1,0 +1,4 @@
+CREATE TABLE "Tracking" (
+    Id SERIAL PRIMARY KEY,
+    Name VARCHAR(100)
+);
